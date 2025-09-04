@@ -1,0 +1,43 @@
+
+
+
+  body{
+    background-color: ; #1D42221;
+    color:white;
+    font-family: ; "bai jamjuree", sans-serif;
+    display: flex;
+    justify-content:center;
+    height: 700px;
+    margin: 0;
+  }
+
+
+  button{
+     background-color: #64A712;
+     color: white;
+     font-family: "bai jamjuree", sans-serif;
+      }
+
+.passo{
+   display: none;
+}
+
+.passo.ativo{
+     display: block;
+}
+
+
+
+main {
+   text-align: center;
+}
+
+
+
+
+img {
+
+    max-width: 90%;
+}
+
+
